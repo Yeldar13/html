@@ -1,0 +1,32 @@
+body{
+    background: beige;
+    margin: 50px;
+}
+p{
+    background: yellow;
+}
+.p1{
+    background: lawngreen ;
+}
+.border1 {
+    border:1px solid black
+}
+.border2 {
+    border: 5px solid red;
+}
+p.p1.border1 .talk{
+    background: blueviolet;
+}
+
+p.p2  .talk{
+    background: #f60d0d;
+}
+h1{
+    background: orange;
+}
+h2{
+    background: aqua;
+}
+h3{
+    background: aqua;
+}
